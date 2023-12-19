@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LVBond
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on code review 
 - 📫 How to reach me lvbond@gmail.com
 
